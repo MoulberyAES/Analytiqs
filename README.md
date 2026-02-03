@@ -1,6 +1,5 @@
 # Analytiqs
 A frontend for analytiqs price comparison mod inside minecraft
-For fabric 1.21.5 see [here](https://github.com/Coflnet/SkyblockmodFabric)
 
 Extends hypixel skyblock with detailed pricing information, and tracking based on data also available via sky.coflnet.com.
 Especially useful for lowballers and very active auctionhouse and bazaar players.
